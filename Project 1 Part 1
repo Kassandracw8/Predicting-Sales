@@ -1,0 +1,93 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPq7X8cRoqyZCGxnQye8f/Y",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Kassandracw8/Predicting-Sales/blob/main/Project%201%20Part%201\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "pI0QmwO-1OF6"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "0C1ewUJH1f4O"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# H1: # Project 1- Part 1"
+      ],
+      "metadata": {
+        "id": "9KYDkfrtreVf"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "H2## Loading Data"
+      ],
+      "metadata": {
+        "id": "sHHBCn93rUBn"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "H3 ## Data Cleaning"
+      ],
+      "metadata": {
+        "id": "Dc-g_Cx9B498"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "H2## Explanatory Visuals"
+      ],
+      "metadata": {
+        "id": "Iys16p1pCPEG"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "H2 ## Explanatory Visuals"
+      ],
+      "metadata": {
+        "id": "2bIgTgNTCXdL"
+      }
+    }
+  ]
+}
